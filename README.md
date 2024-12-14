@@ -1,4 +1,4 @@
-# Real-Estate-Project-
+# Real-Estate-Database-Project-
 ### Created by Rasha Alharbi
 - **Email**: rashaalharbi220@gmail.com
 
